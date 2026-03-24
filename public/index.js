@@ -92,7 +92,7 @@ const polygonPoints = [
   { lat: 21.041005, lng:  105.830710 , gate: 0, name: " " },
   { lat: 21.041771, lng:  105.832533 , gate: 0, name: " " },
   { lat: 21.041943, lng:  105.835175 , gate: 0, name: " " },
-  { lat: 21.042590, lng:  105.835175 , gate: 1, name: " Ô Thụy Chương" },
+  { lat: 21.042590, lng:  105.835175 , gate: 1, name: " Ô Quán Thánh" },
   { lat: 21.042630, lng:  105.836008 , gate: 0, name: " " },
   { lat: 21.047200, lng:  105.836853 , gate: 0, name: " " },
   { lat: 21.047689, lng:  105.837725 , gate: 0, name: " " },
