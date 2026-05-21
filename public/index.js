@@ -76,6 +76,14 @@ const polygonPoints = [
   { lat: 21.008008, lng:  105.843393 , gate: 0, name: " " },
   { lat: 21.008037, lng:  105.840926 , gate: 1, name: " Ô Kim Hoa" },
   { lat: 21.008105, lng:  105.840586 , gate: 0, name: " " },
+
+  { lat: 21.010185, lng:  105.838483 , gate: 0, name: " " },  
+  { lat: 21.010157, lng:  105.838254 , gate: 0, name: " " },
+  { lat: 21.010254, lng:  105.838100 , gate: 0, name: " " },
+  { lat: 21.010242, lng:  105.837986 , gate: 0, name: " " },
+  { lat: 21.010614, lng:  105.837626 , gate: 0, name: " " },
+  { lat: 21.011088, lng:  105.837723 , gate: 0, name: " " },
+  
   { lat: 21.018931, lng:  105.830041 , gate: 1, name: " Ô Chợ Dừa" },
   { lat: 21.021179, lng:  105.825836 , gate: 0, name: " " },
   { lat: 21.023411, lng:  105.819822 , gate: 0, name: " " },
