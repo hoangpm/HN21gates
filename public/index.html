@@ -19,15 +19,31 @@
       padding: 8px 12px;
       border-radius: 6px;
       font-size: 13px;
-      line-height: 1.5;
+      line-height: 1.6;
       color: #222;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-      max-width: 420px;
+      max-width: 520px;
+    }
+
+    .author-info div {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .author-info img {
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
     }
 
     .author-info a {
       color: #0066cc;
       text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
     }
 
     .author-info a:hover {
@@ -41,16 +57,24 @@
 
   <div class="author-info">
     <div>
-      Author: Phạm Minh Hoàng, Email: hoangpm@gmail.com;
-      Fb:
+      <img src="copyright.png" alt="Copyright" />
+      <span>Phạm Minh Hoàng;</span>
+
+      <a href="mailto:hoangpm@gmail.com">
+        <img src="gmail.png" alt="Gmail" />
+        <span>hoangpm@gmail.com</span>
+      </a>
+
       <a href="https://www.facebook.com/phamminhhoang" target="_blank" rel="noopener noreferrer">
-        https://www.facebook.com/phamminhhoang
+        <img src="facebook.png" alt="Facebook" />
+        <span>https://www.facebook.com/phamminhhoang</span>
       </a>
     </div>
+
     <div>
-      Github:
       <a href="https://github.com/hoangpm/HN21gates" target="_blank" rel="noopener noreferrer">
-        https://github.com/hoangpm/HN21gates
+        <img src="github.ico" alt="Github" />
+        <span>https://github.com/hoangpm/HN21gates</span>
       </a>
     </div>
   </div>
