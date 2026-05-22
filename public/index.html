@@ -3,12 +3,58 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hanoi 21 gates in 1831 map by Phạm Minh Hoàng (hoangpm@gmail.com) 2024-2026 </title>
+
+  <title>Hanoi 21 gates in 1831 map by Phạm Minh Hoàng (hoangpm@gmail.com) 2024-2026</title>
+
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="style.css" />
+
+  <style>
+    .author-info {
+      position: fixed;
+      left: 12px;
+      bottom: 12px;
+      z-index: 1000;
+      background: rgba(255, 255, 255, 0.9);
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      line-height: 1.5;
+      color: #222;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+      max-width: 420px;
+    }
+
+    .author-info a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    .author-info a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
+
 <body>
   <div id="map"></div>
+
+  <div class="author-info">
+    <div>
+      Author: Phạm Minh Hoàng, Email: hoangpm@gmail.com;
+      Fb:
+      <a href="https://www.facebook.com/phamminhhoang" target="_blank" rel="noopener noreferrer">
+        https://www.facebook.com/phamminhhoang
+      </a>
+    </div>
+    <div>
+      Github:
+      <a href="https://github.com/hoangpm/HN21gates" target="_blank" rel="noopener noreferrer">
+        https://github.com/hoangpm/HN21gates
+      </a>
+    </div>
+  </div>
+
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="index.js"></script>
 </body>
