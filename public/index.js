@@ -96,14 +96,16 @@ const polygonPoints = [
   { lat: 21.037795, lng:  105.829931 , gate: 0, name: " " },
   { lat: 21.038825, lng:  105.829997 , gate: 0, name: " " },
   { lat: 21.038904, lng:  105.829442 , gate: 0, name: " " },
-  { lat: 21.039327, lng:  105.829099 , gate: 0, name: " " }, // dốc Lapho
+  { lat: 21.039327, lng:  105.829099 , gate: 0, name: " " }, 
+
+  { lat: 21.039651, lng:  105.828726 , gate: 0, name: " " }, // dốc Lapho
   { lat: 21.041289, lng:  105.830481 , gate: 0, name: " " },
   { lat: 21.041732, lng:  105.831249 , gate: 0, name: " " },
   { lat: 21.041962, lng:  105.832215 , gate: 0, name: " " },
-  { lat: 21.042052, lng:  105.835049 , gate: 0, name: " " },   
-  { lat: 21.039651, lng:  105.828726 , gate: 0, name: " " },
+  { lat: 21.042052, lng:  105.835049 , gate: 0, name: " " }, 
+  { lat: 21.042707, lng:  105.835060 , gate: 0, name: " " },
   { lat: 21.042742, lng:  105.834503 , gate: 1, name: " Ô Quán Thánh" },
-  { lat: 21.039651, lng:  105.828726 , gate: 0, name: " " },
+  { lat: 21.042707, lng:  105.835060 , gate: 0, name: " " },
   
   { lat: 21.042630, lng:  105.836008 , gate: 0, name: " " },
   { lat: 21.047200, lng:  105.836853 , gate: 0, name: " " },
