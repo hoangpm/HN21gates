@@ -103,9 +103,10 @@ const polygonPoints = [
   { lat: 21.041732, lng:  105.831249 , gate: 0, name: " " },
   { lat: 21.042015, lng:  105.834806 , gate: 0, name: "  " },
   { lat: 21.042683, lng:  105.834811 , gate: 1, name: " Ô Quán Thánh" },
-  { lat: 21.042851, lng:  105.834841 , gate: 0, name: " " },
-  { lat: 21.042981, lng:  105.835742 , gate: 0, name: " " },
+  { lat: 21.042796, lng:  105.834836 , gate: 0, name: " " },
+  { lat: 21.042991, lng:  105.835914 , gate: 0, name: " " },
   
+  { lat: 21.044033, lng:  105.836273 , gate: 0, name: " " },
   { lat: 21.042753, lng:  105.835890 , gate: 0, name: " " },
   { lat: 21.047200, lng:  105.836853 , gate: 0, name: " " },
   { lat: 21.047689, lng:  105.837725 , gate: 0, name: " " },
