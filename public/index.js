@@ -107,7 +107,6 @@ const polygonPoints = [
   { lat: 21.042991, lng:  105.835914 , gate: 0, name: " " },
   
   { lat: 21.044033, lng:  105.836273 , gate: 0, name: " " },
-  { lat: 21.042753, lng:  105.835890 , gate: 0, name: " " },
   { lat: 21.047200, lng:  105.836853 , gate: 0, name: " " },
   { lat: 21.047689, lng:  105.837725 , gate: 0, name: " " },
   { lat: 21.048389, lng:  105.837989 , gate: 0, name: " " },
