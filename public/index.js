@@ -101,11 +101,10 @@ const polygonPoints = [
   { lat: 21.039651, lng:  105.828726 , gate: 0, name: " " }, // dốc Lapho
   { lat: 21.041289, lng:  105.830481 , gate: 0, name: " " },
   { lat: 21.041732, lng:  105.831249 , gate: 0, name: " " },
-  { lat: 21.041962, lng:  105.832215 , gate: 0, name: " " },
-  { lat: 21.042052, lng:  105.835049 , gate: 0, name: " " }, 
-  { lat: 21.042707, lng:  105.835060 , gate: 0, name: " " },
+  { lat: 21.042015, lng:  105.834806 , gate: 0, name: "  " },
   { lat: 21.042683, lng:  105.834811 , gate: 1, name: " Ô Quán Thánh" },
-  { lat: 21.042707, lng:  105.835060 , gate: 0, name: " " },
+  { lat: 21.042851, lng:  105.834841 , gate: 0, name: " " },
+  { lat: 21.042981, lng:  105.835742 , gate: 0, name: " " },
   
   { lat: 21.042753, lng:  105.835890 , gate: 0, name: " " },
   { lat: 21.047200, lng:  105.836853 , gate: 0, name: " " },
